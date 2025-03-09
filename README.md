@@ -42,5 +42,5 @@ npm run release
 yarn release
 ```
 
-## Join our Discord!
+## let's join together to build the world
 
